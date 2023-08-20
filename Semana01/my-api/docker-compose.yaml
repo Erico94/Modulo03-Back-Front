@@ -1,0 +1,16 @@
+#Cria um ambiente local
+services: #Define os serviços a serem executados
+  db: #Serviço de banco de dados 
+    image: postgres #Banco de dados postgres
+    restart : always #Sempre que o arquivo for executado ele vai reiniciar
+    environment:
+       POSTGRES_PASSWORD: 12345
+    # volumes: #Espao dentro do conteiner para os dados 
+    #   - postgres-data:/var/lib/postgresql/data
+
+  app:
+    image: helloapp:latest
+    ports: 
+      - 8080:80
+    depends_on:
+    - db #Antes de executar a imagem do app, é executada a imagem db
