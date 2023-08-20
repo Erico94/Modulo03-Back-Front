@@ -1,0 +1,14 @@
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\bin\Debug\net7.0\Semana03.exe
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\bin\Debug\net7.0\Semana03.deps.json
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\bin\Debug\net7.0\Semana03.runtimeconfig.json
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\bin\Debug\net7.0\Semana03.dll
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\bin\Debug\net7.0\Semana03.pdb
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\obj\Debug\net7.0\Semana03.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\obj\Debug\net7.0\Semana03.AssemblyInfoInputs.cache
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\obj\Debug\net7.0\Semana03.AssemblyInfo.cs
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\obj\Debug\net7.0\Semana03.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\obj\Debug\net7.0\Semana03.dll
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\obj\Debug\net7.0\refint\Semana03.dll
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\obj\Debug\net7.0\Semana03.pdb
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\obj\Debug\net7.0\Semana03.genruntimeconfig.cache
+G:\Meu Drive\Area_Estudo\FullStack\Modulo03-Back-Front\Semana03\obj\Debug\net7.0\ref\Semana03.dll
